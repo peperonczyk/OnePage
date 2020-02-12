@@ -1,29 +1,3 @@
-/* 
-/* kody */
-/* <i class="fab fa-twitter"></i> */
-/* <i class="fab fa-facebook"></i> */
-/* <i class="fab fa-linkedin"></i> */
-/* <i class="fas fa-envelope"></i>  */
-
-/* 
-Kolory:
-- Header - #87509c
-- tło elementów menu na :hover - #643a79
-- pomarańczowy button w sekcji Header - #eb7d4b
-- tło sekcji "Team" - #e7f1f8
-- ciemnoszare kółka w sekcji "Team" - #696969
-- tło sekcji "About us" - #d74680
-- pomarańczowe napisy w sekcji "About us" - #ffdd99
-- ciemnoszare kółka w sekcji "About us" - #787878
-- linia pod nagłówkiem w sekcji "About us" - #b73c6d
-- kółka w sekcji "Skills" - #34b7eb, #dc4481, #17c5aa, #ec7d4f
-- tło sekcji z formularzem - #3c5499
-- linia pod nagłówkiem w sekcji z formularzem - #273a71
-- nagłówki na jasnym tle (sekcja "Team" i "About us"), podpisy w sekcji "Skills" - #3c4761
-- kolor jasnoszary (linia pod nagłówkami, tło ikon social media w sekcji "Team") - #c8d9e5
-- niebieski tekst w sekcji "Team", button w sekcji z formularzem, linki na hover w stopce - #55c2e9
-*/
-
 *{
   margin: 0;
   padding: 0;
