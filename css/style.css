@@ -156,12 +156,13 @@ cursor: pointer;
   padding: 20px;
 }
 .section__logo > i{
-width: 30px;
-height: 30px;
+width: 40px;
+height: 40px;
 border-radius: 50%;
 background-color: #c8d9e5;
+color:#fff;
 text-align: center;
-line-height: 30px;
+line-height: 40px;
 cursor: pointer;
 }
 
